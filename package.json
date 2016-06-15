@@ -1,6 +1,6 @@
 {
   "name": "twixt-document",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "call function when document is ready",
   "main": "document.js",
   "scripts": {
